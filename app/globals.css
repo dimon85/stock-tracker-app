@@ -215,7 +215,7 @@
   }
 
   .country-select-input {
-    @apply !bg-gray-800 text-gray-400 border-0 border-b border-gray-600 rounded-none focus:ring-0 placeholder:text-gray-500;
+    @apply !bg-gray-800 text-gray-400 border-0 border-gray-600 rounded-none focus:ring-0 placeholder:text-gray-500;
   }
 
 
